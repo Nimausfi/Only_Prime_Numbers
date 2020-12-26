@@ -23,5 +23,6 @@ Three implementations have been provided:\
 2-	Boolean implementation (prime_boolean.v)\
 3-	Procedural implementation (prime_procedural.v)
 
-Furthermore, the test bench (prime_TB.v) has been provided to check the validity of all modules. (Do not forget to comment/uncomment the lines 28-30 to test each module).
+Furthermore, the test bench (prime_TB.v) has been provided to check the validity of all modules.\ 
+(Do not forget to comment/uncomment the lines 28-30 to test each module).
 
