@@ -18,6 +18,7 @@ Consider “c” as the most significant bit, and “a” as the least significa
 **Solution:**
 
 Three implementations have been provided:\
+\
 1-	Gate implementation (prime_gate.v)\
 2-	Boolean implementation (prime_boolean.v)\
 3-	Procedural implementation (prime_procedural.v)\
