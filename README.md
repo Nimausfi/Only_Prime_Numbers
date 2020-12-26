@@ -8,7 +8,7 @@ Consider “c” as the most significant bit, and “a” as the least significa
 
 
 
-<img src="Verilog01.jpg" width=100>
+<img src="Verilog01.jpg" width=600>
 
 
 
