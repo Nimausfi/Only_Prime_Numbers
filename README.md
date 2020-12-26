@@ -25,5 +25,5 @@ Three implementations have been provided:\
 
 Furthermore, the test bench (prime_TB.v) has been provided to check the validity of all modules.
 \
-(Do not forget to comment/uncomment the lines 28-30 to test each module).
+(Do not forget to comment/uncomment the lines 28-30 for testing each module).
 
